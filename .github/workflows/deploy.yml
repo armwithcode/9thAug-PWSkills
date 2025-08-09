@@ -75,5 +75,3 @@ jobs:
         run: >
           echo "Simulating Deploying to PRODUCTION via SSH: https://${{ env.APP_NAME
           }}.com"
-
-          cat index.htm
